@@ -8,7 +8,7 @@ A small clone of the popular [2048 game](http://gabrielecirulli.github.io/2048/)
 ![Screenshot](https://github.com/itsabzzz/2048-Docker-AWS-Project/blob/8e13af58277769fd7c4b470917e42125cdcbdc87/Screenshot.png)
 
 ### Play the Game
-[Play 2048]([http://your-game-url-here.com](http://abubkerproject.us-east-1.elasticbeanstalk.com/))
+[Play 2048](http://abubkerproject.us-east-1.elasticbeanstalk.com/)
 
 ## Getting Started
 
