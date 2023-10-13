@@ -1,0 +1,45 @@
+# Dockerized 2048 Game with AWS Elastic Beanstalk Deployment
+
+[![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/yourname/)
+[![YouTube Tutorial](https://img.shields.io/badge/YouTube-Tutorial-red)](https://www.youtube.com/yourvideolink)
+
+## Overview
+
+Welcome to my DevOps project where we've created a Dockerized version of the popular game '2048' and deployed it on AWS Elastic Beanstalk. This project serves as an exciting introduction to the world of DevOps and demonstrates the power of containerization for application deployment.
+
+In this repository, you'll find all the project files, including the Docker configuration, source code, and deployment scripts.
+
+## Features
+
+- **Dockerization**: Learn how to create a Docker image and container for a web-based game.
+- **Elastic Beanstalk**: Explore AWS Elastic Beanstalk for containerized application deployment.
+- **Educational**: Ideal for DevOps enthusiasts and those looking to showcase their skills.
+
+## Getting Started
+
+To run this project locally or deploy it on AWS Elastic Beanstalk, follow these simple steps:
+
+1. Clone this repository to your local environment.
+2. Build and run the Docker image using the provided Dockerfile.
+3. Deploy the containerized application on AWS Elastic Beanstalk.
+
+For a detailed walkthrough, watch the video tutorial on my [LinkedIn profile](https://www.linkedin.com/in/yourname/).
+
+## Video Tutorial
+
+For a step-by-step guide to this project, check out my [YouTube tutorial](https://www.youtube.com/yourvideolink).
+
+## Contributing
+
+Contributions are welcome! If you'd like to make improvements or have any suggestions, feel free to open an issue or create a pull request.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+
+## Contact
+
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourname/)
+- Email: your@email.com
+
+Thank you for checking out this project! Enjoy learning and have fun playing the game!
